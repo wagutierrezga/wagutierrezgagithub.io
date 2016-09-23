@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset ="UTF-8">
+
+	#menu-horizontal{
+	<list-style:none;
+	margin:0;
+	padding:0;
+}
+
+#menu-horizontal li{
+	float:left;
+	
+}
